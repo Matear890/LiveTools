@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 # python 3.6
-#爱奇艺（IQIYI）官网，加载主页面，
+#爱奇艺（IQIYI）官网，加载主页面， https://www.iqiyi.com/home2020
 #开发者工具搜索获取P00001，P00003参数
 #skey 为酷推 密钥，绑定发送qq ，注册酷推请到：https://cp.xuthus.cc/
 #修改200、201、202行代码，其中202行的skey是酷推的skey。200和201行是获取Cookie中的P0001和P0003
