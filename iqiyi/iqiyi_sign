@@ -225,4 +225,4 @@ def main_handler(event, context):
  
     msg = f"【爱奇艺等级】\n{msg_user}\n-----------------------------\n【爱奇艺签到】\n签到：{msg1}\n任务：{msg3}\n抽奖：{msg2}"
     sendMsg(skey, msg)
-    return msg
+    return msg 
